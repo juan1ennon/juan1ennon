@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juan1ennon
 - 👀 I’m interested in ... Lisztomania, Wanderlust, Cybersecurity
 - 🌱 I’m currently learning ... GIT Coding
-- 💞️ I’m looking to collaborate on ... a sexy nerdy team led by sensitive women
+- 💞️ I’m looking to collaborate on ... a sexy nerdy team with interesting projects
 - 📫 How to reach me ... juanmasalros@gmail.com
 
 <!---
