@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juan1ennon
 - 👀 I’m interested in ... Lisztomania, Wanderlust, Cybersecurity and Neuronal Networks
-- 🌱 I’m currently learning ... GIT compilation and JS Coding
+- 🌱 I’m currently learning ... JS Coding
 - 💞️ I’m looking to collaborate on ... a sexy nerdy team with interesting projects that may or may not be profitable yet rewarding
 - 📫 How to reach me ... juanmasalros@gmail.com
 
